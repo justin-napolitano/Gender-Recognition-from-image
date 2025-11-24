@@ -21,6 +21,12 @@ seoSecondaryKeywords:
   - cnn model
   - tensorflow image preprocessing
 seoOptimized: true
+topicFamily: datascience
+topicFamilyConfidence: 0.95
+topicFamilyNotes: >-
+  The post details a data processing and deep learning pipeline involving dataset curation, image
+  preprocessing, CNN training, and TensorFlow data loading, all core aspects of data science
+  projects.
 ---
 
 # Technical Overview: Gender Recognition from Images
@@ -72,3 +78,4 @@ Defined in `data_generation.py`, the model is a Keras Sequential CNN with convol
 ## Summary
 
 This project provides a foundational pipeline for gender recognition from images, combining face alignment, dataset curation, and CNN-based classification. The modular design allows for extension and improvement, such as enhanced model architectures or deployment integration. The codebase serves as a practical reference for engineers revisiting gender recognition tasks using Python and TensorFlow.
+
