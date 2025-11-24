@@ -1,12 +1,27 @@
 ---
-slug: "github-gender-recognition-from-image"
-title: "Gender-Recognition-from-image"
-repo: "justin-napolitano/Gender-Recognition-from-image"
-githubUrl: "https://github.com/justin-napolitano/Gender-Recognition-from-image"
-generatedAt: "2025-11-23T09:00:55.996976Z"
-source: "github-auto"
+slug: github-gender-recognition-from-image
+title: Pipeline for Gender Recognition from Facial Images Using CNN and TensorFlow
+repo: justin-napolitano/Gender-Recognition-from-image
+githubUrl: https://github.com/justin-napolitano/Gender-Recognition-from-image
+generatedAt: '2025-11-23T09:00:55.996976Z'
+source: github-auto
+summary: >-
+  Implementation of a modular pipeline for gender recognition from facial images using face
+  alignment, dataset curation, and CNN classification in Python and TensorFlow.
+tags:
+  - gender-recognition
+  - image-processing
+  - cnn
+  - tensorflow
+  - face-alignment
+  - deep-learning
+seoPrimaryKeyword: gender recognition from images
+seoSecondaryKeywords:
+  - face alignment
+  - cnn model
+  - tensorflow image preprocessing
+seoOptimized: true
 ---
-
 
 # Technical Overview: Gender Recognition from Images
 
