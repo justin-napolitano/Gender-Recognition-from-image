@@ -7,8 +7,8 @@ githubUrl: https://github.com/justin-napolitano/Gender-Recognition-from-image
 generatedAt: '2025-11-24T21:34:54.236Z'
 source: github-auto
 summary: >-
-  Explore a Python project for gender recognition from images utilizing deep
-  learning and image processing techniques.
+  Explore a Python project for gender recognition from images utilizing deep learning and image
+  processing techniques.
 tags:
   - python
   - tensorflow
@@ -26,8 +26,8 @@ seoSecondaryKeywords:
   - image preprocessing techniques
   - cnn model training
 seoOptimized: true
-topicFamily: null
-topicFamilyConfidence: null
+topicFamily: datascience
+topicFamilyConfidence: 0.9
 kind: project
 entryLayout: project
 showInProjects: true
@@ -125,3 +125,4 @@ python data_generation.py
 ---
 
 *Note: Some paths and parameters are hardcoded and should be adapted to your environment.*
+
