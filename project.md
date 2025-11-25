@@ -1,20 +1,31 @@
 ---
 slug: github-gender-recognition-from-image
 id: github-gender-recognition-from-image
-title: Gender-Recognition-from-image
+title: Gender Recognition from Images Using Deep Learning
 repo: justin-napolitano/Gender-Recognition-from-image
 githubUrl: https://github.com/justin-napolitano/Gender-Recognition-from-image
 generatedAt: '2025-11-24T21:34:54.236Z'
 source: github-auto
 summary: >-
-  This repository contains a Python-based project for recognizing gender from
-  images using deep learning techniques. The project includes data
-  preprocessing, dataset filtering, and a convolutional neural network model for
-  classification.
-tags: []
-seoPrimaryKeyword: ''
-seoSecondaryKeywords: []
-seoOptimized: false
+  Explore a Python project for gender recognition from images using deep
+  learning, including model training and data preprocessing techniques.
+tags:
+  - python
+  - tensorflow
+  - keras
+  - opencv
+  - dlib
+  - deep learning
+  - image processing
+  - cnn
+seoPrimaryKeyword: gender recognition from images
+seoSecondaryKeywords:
+  - deep learning gender classification
+  - image preprocessing techniques
+  - cnn model training
+  - data augmentation in deep learning
+  - face alignment with dlib
+seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
 kind: project
